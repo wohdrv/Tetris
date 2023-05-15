@@ -33,4 +33,9 @@
 
 
   8. Ввести команду py main.py
-  9. Готово!
+
+      ![image](https://github.com/wohdrv/Tetris/assets/133672243/5c4d4b35-7239-4495-bad2-5bfc56ab59cb)
+
+
+
+  10. Готово!
