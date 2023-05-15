@@ -15,12 +15,12 @@
 
   3. Открыть Командную строку
 
-       ![image](https://github.com/wohdrv/Tetris/assets/133672243/e30a5d14-6228-4c41-8364-6f5ac5b399fa)
+       ![image](https://github.com/wohdrv/Tetris/assets/133672243/8574c9d8-7b76-4e2c-9843-9c8a5f4ac377)
 
 
   4. Ввести команду cd <<Путь к папке с проектом>>
 
-      ![image](https://github.com/wohdrv/Tetris/assets/133672243/3e11e72a-28b6-4c8f-92fd-9f4987cf3bd1)
+      ![image](https://github.com/wohdrv/Tetris/assets/133672243/09bc939e-e9c3-492f-8c7a-81fae3107a38)
 
 
   6. Ввести диск, где находится папка с проектом. (Например C: или D:)
