@@ -1,3 +1,5 @@
+# ![image](https://github.com/wohdrv/Tetris/assets/133672243/a2028dbd-9d4e-4f9c-8535-05f8e0557572)
+
 # Tetris
 
 Здравствуйте всем, кто читает данный файл. Меня зовут Нурмухамбет Жанибек Талгатулы и я подал заявку на участие в nFactorial Incubator.
