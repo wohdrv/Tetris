@@ -10,7 +10,7 @@
 Чтобы открыть файл, необходимо:
   1. Скачать весь исходный код на компьютер в отдельную папку.
 
-      ![image](https://github.com/wohdrv/Tetris/assets/133672243/2aeb9bf2-31c1-41c8-960a-e7124a3f6ab9)
+        ![image](https://github.com/wohdrv/Tetris/assets/133672243/45a7e6e1-a69b-459d-ad1f-9cefb754646f)
 
 
   3. Открыть Командную строку
