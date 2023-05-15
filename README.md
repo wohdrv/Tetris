@@ -12,11 +12,17 @@
 
       ![image](https://github.com/wohdrv/Tetris/assets/133672243/2aeb9bf2-31c1-41c8-960a-e7124a3f6ab9)
 
+
   3. Открыть Командную строку
 
-       ![image](https://github.com/wohdrv/Tetris/assets/133672243/1efd6d56-bb35-4679-8a75-58ffce84a4b9)
+       ![image](https://github.com/wohdrv/Tetris/assets/133672243/e30a5d14-6228-4c41-8364-6f5ac5b399fa)
+
 
   4. Ввести команду cd <<Путь к папке с проектом>>
-  5. Ввести диск, где находится папка с проектом. (Например C: или D:)
-  6. Ввести команду py main.py
-  7. Готово!
+
+      ![image](https://github.com/wohdrv/Tetris/assets/133672243/3e11e72a-28b6-4c8f-92fd-9f4987cf3bd1)
+
+
+  6. Ввести диск, где находится папка с проектом. (Например C: или D:)
+  7. Ввести команду py main.py
+  8. Готово!
