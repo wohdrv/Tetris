@@ -11,7 +11,7 @@
   1. Скачать весь исходный код на компьютер в отдельную папку.
   2. Открыть Командную строку
 
-   ![image](https://github.com/wohdrv/Tetris/assets/133672243/1efd6d56-bb35-4679-8a75-58ffce84a4b9)
+       ![image](https://github.com/wohdrv/Tetris/assets/133672243/1efd6d56-bb35-4679-8a75-58ffce84a4b9)
 
 
   4. Ввести команду cd <<Путь к папке с проектом>>
